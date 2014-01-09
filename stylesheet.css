@@ -2,6 +2,11 @@
 
 body {
 	padding: 12%;
+	font-size: .625em;
+}
+
+h3 {
+	font-size: 1.6em;
 }
 
 img {
